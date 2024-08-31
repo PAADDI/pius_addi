@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Pius Addi</title>
+    <link>https://paaddi.github.io/pius_addi/post/</link>
+    <description>Recent content in Projects on Pius Addi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    <atom:link href="https://paaddi.github.io/pius_addi/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project III: A Financial Dashboard</title>
+      <link>https://paaddi.github.io/pius_addi/post/project3/</link>
+      <pubDate>Sun, 25 Aug 2024 11:13:32 -0400</pubDate>
+      <guid>https://paaddi.github.io/pius_addi/post/project3/</guid>
+      <description>A financial dashboard designed to visualize and analyze stock returns, providing clear insights into performance trends over time. The dashboard offers an intuitive interface for tracking and comparing the returns of various stocks, enabling informed investment decisions. Link to Github repository&#xA;Link to App</description>
+    </item>
+    <item>
+      <title>Project IV: A Web Dashboard for Building Machine learning Models</title>
+      <link>https://paaddi.github.io/pius_addi/post/project4/</link>
+      <pubDate>Sun, 25 Aug 2024 11:13:32 -0400</pubDate>
+      <guid>https://paaddi.github.io/pius_addi/post/project4/</guid>
+      <description>A web based machine learning dashboard with the following features: preprocessing numerical and categorical features, imputing missing numerical values, tuning hyper-parameters, cross validation and model building. Link to Github repository&#xA;Link to App</description>
+    </item>
+    <item>
+      <title>Project II: Winning Space Race with Data Science</title>
+      <link>https://paaddi.github.io/pius_addi/post/project2/</link>
+      <pubDate>Fri, 12 Apr 2024 11:00:59 -0400</pubDate>
+      <guid>https://paaddi.github.io/pius_addi/post/project2/</guid>
+      <description>Overview Data was collected using API request and web scraping from Wikipedia Applied one-hot encoding to categorical variables Perform exploratory data analysis (EDA) using visualization and SQL Perform interactive visual analytics using Folium and Plotly Dash Perform predictive analysis using classification models Link to Github repository&#xA;Link to App</description>
+    </item>
+    <item>
+      <title>Project I:Extracting and Visualizing Stock Data</title>
+      <link>https://paaddi.github.io/pius_addi/post/project1/</link>
+      <pubDate>Wed, 03 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>https://paaddi.github.io/pius_addi/post/project1/</guid>
+      <description>Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. In this project, I extracted some stock data, then displayed this data on a dashboard.&#xA;Overview Used Python libraries and web scraping to extract historical share prices and quarterly revenue reporting. Built a dashboard to clearly visualise stock data for better insights into stock movement Link to Github repository</description>
+    </item>
+  </channel>
+</rss>
